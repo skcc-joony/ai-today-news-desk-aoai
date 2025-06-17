@@ -83,7 +83,7 @@
 2. **.env 파일 생성**
 
    ```
-   AZURE_OPENAI_ENDPOINT=https://skcc-atl-dev-openai-01.openai.azure.com/
+   AZURE_OPENAI_ENDPOINT=https://<name>.openai.azure.com/
    AZURE_OPENAI_API_KEY=<API_KEY>
    AZURE_OPENAI_API_VERSION=2024-02-15-preview
    EMBEDDING_DEPLOY=text-embedding-3-large     # Azure Portal 배포 이름
